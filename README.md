@@ -1,5 +1,5 @@
 # Myls
-Myls is a remake "ls" for linux or other systems.It is written in C and is compiled on Android. <br>At this time, we don't know about the issues associated with porting to other platforms
+Myls is a remake "ls" for linux or other systems.It is written in C and is compiled on Android. <br>At this time, we don't know about the issues associated with porting to other platforms.<br>At this version,It's also worth mentioning that if you don't give Myls enough access to directories that require permission, Myls will think the directory is a file and label it in white.
 
 # Usage
 Usage: ./myls /directory or ./myls for local directory
