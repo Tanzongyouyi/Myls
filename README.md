@@ -4,6 +4,7 @@ At this time, we don't know about the issues associated with porting to other pl
 
 # Usage
 Usage: ./myls /directory
+![Usage](/mddata/demo.jpg "Demo")
 
 # Advantages
 1.Myls will automatically show you hidden files with no extra effort!
