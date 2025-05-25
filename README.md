@@ -2,7 +2,7 @@
 Myls is a remake "ls" for linux or other systems.It is written in C and is compiled on Android. <br>At this time, we don't know about the issues associated with porting to other platforms
 
 # Usage
-Usage: ./myls /directory
+Usage: ./myls /directory or ./myls for local directory
 ![Usage](/mddata/demo.jpg "Demo")
 
 # Advantages
