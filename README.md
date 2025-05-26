@@ -5,6 +5,10 @@ Myls is a remake "ls" for linux or other systems.It is written in C and is compi
 Usage: ./myls /directory or ./myls for local directory
 ![Usage](/mddata/demo.jpg "Demo")
 
+# Want to try the fun of compiling yourself?
+    gcc -o myls myls.c<br>
+This allows the executable file to be compatible with your own system.
+
 # Advantages
 1.Myls will automatically show you hidden files with no extra effort!<br>
 2.Additional features are in development...
