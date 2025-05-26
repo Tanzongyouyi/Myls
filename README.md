@@ -7,7 +7,8 @@ Usage: ./myls /directory or ./myls for local directory
 
 # Want to try the fun of compiling yourself?
     gcc -o myls myls.c
-This allows the executable file to be compatible with your own system.
+This allows the executable file to be compatible with your own system.<br>
+Besides gcc, you can also use any compiler you want, but I cannot guarantee that there won't be any issues.
 
 # Advantages
 1.Myls will automatically show you hidden files with no extra effort!<br>
