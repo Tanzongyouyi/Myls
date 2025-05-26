@@ -6,7 +6,7 @@ Usage: ./myls /directory or ./myls for local directory
 ![Usage](/mddata/demo.jpg "Demo")
 
 # Want to try the fun of compiling yourself?
-    gcc -o myls myls.c
+    gcc -o myls main.c
 This allows the executable file to be compatible with your own system.<br>
 Besides gcc, you can also use any compiler you want, but I cannot guarantee that there won't be any issues.
 
